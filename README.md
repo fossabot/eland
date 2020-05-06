@@ -39,7 +39,12 @@ _Note, this project is still very much a work in progress and in an alpha state;
 </tr>
 </table>
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Feland.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Feland?ref=badge_large)
+
 # What is it?
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Feland.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Feland?ref=badge_shield)
+
 
 eland is a Elasticsearch client Python package to analyse, explore and manipulate data that resides in Elasticsearch. 
 Where possible the package uses existing Python APIs and data structures to make it easy to switch between numpy, 
@@ -253,4 +258,3 @@ Naming is difficult, but as we had to call it something:
 * [Elandsgracht](https://goo.gl/maps/3hGBMqeGRcsBJfKx8): Amsterdam street near Elastic's Amsterdam office 
 
 [Pronunciation](https://commons.wikimedia.org/wiki/File:Nl-eland.ogg): /ˈeːlɑnt/
-
